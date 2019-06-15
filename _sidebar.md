@@ -1,0 +1,7 @@
+* [首页](READM.md)
+* [新人指南](guide.md)
+* [服务器规定](rules.md)
+* [白名单申请](whitelist.md)
+* [服务器地址/信息](serverlist.md)
+* [常见问题](faq.md)
+* [捐赠服务器](https://docs.qq.com/sheet/BylWFV4BDbil26gVNE1BFYTw0YwAax1tzI5Y2IQmKC2Cjyb921X9Hk0Y2ZAW35tZdF4ZcRVI1)
