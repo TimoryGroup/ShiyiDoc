@@ -14,7 +14,7 @@
 
 
 ## Q: 服务器IP地址多少？应该用什么版本进入？
-- 请看这里:[服务器信息](https://gitee.com/mcshiyi/timory_documents/blob/master/ServerList.MD)
+- 请看这里:[服务器信息](serverlist.md)
 
 ## Q: 进不去服务器？
 - #### 提示: ``Cannot resolve hostname``
@@ -29,9 +29,9 @@
 - #### 提示: ``登陆失败:无效的会话``
     - A: 请退出游戏后，退出登陆，然后重新登陆
 - #### 提示: ``您尚未申请白名单``
-    - A: 请先申请白名单[点击申请](https://gitee.com/mcshiyi/timory_documents/blob/master/Whitelist.MD)
+    - A: 请先申请白名单[点击申请](whitelist.md)
 - #### 提示: ``Outdated Server或client`` 
-    - A: 请确认客户端版本是否正确，选择版本:[服务器信息](https://gitee.com/mcshiyi/timory_documents/blob/master/ServerList.MD)
+    - A: 请确认客户端版本是否正确，选择版本:[服务器信息](serverlist.md)
     
 ## Q：服务器没有圈地锁箱，会不会被恶意破坏？
 - 服务器安装了Coreprotect插件，能够记录(也能回档)每个玩家的操作，您可以使用``/co i ``开启查询器，点击方块查询放置记录，右键箱子查看物品操作记录。如果您的财产被恶意破坏，请联系管理处理。
@@ -42,6 +42,8 @@
     - 首先我们需要等待新的稳定版服务端发布(Spigot/Paper)，经过一段时间测试后确认无问题，才会正式更新服务器版本。
     - 部分服务器的插件可能无法兼容新版本，则我们将会在保证稳定的基础上支持新版本客户端的进入（但不会包含新版本的游戏内容）
     - 如果新版本不兼容当前版本的存档，我们将会在QQ群内通知，视情况考虑删档问题（请参阅 [Q: 服务器换周目删档吗？](#q-服务器换周目删档吗)）
+    - 如果您想提前游玩新版本，可以进入Future服务器->  [服务器信息](serverlist.md)  
+    - 通常情况下，生存服大约会在新版本正式版发布1~3个月更新
 
 ## Q: 服务器换周目删档吗？
 - 通常情况下不会删档，除非：
@@ -51,7 +53,7 @@
 - 删档后将可能公开旧版本存档或开启旧版本服务器供下载。       
         
 ## Q：怎么查看服务器在线的玩家？
-- 请 **群内私聊** 机器人（QQ：2689755649）发送以下指令``:list``，机器人将会向您发送服务器在线的人数。
+- 请 **群内私聊** 机器人（QQ：26897**649）发送以下指令``:list``，机器人将会向您发送服务器在线的人数。
 - 如果机器人长时间未回复，请联系管理员。
     
 ## Q: 客户端在哪里？为什么不提供下载？
@@ -62,11 +64,11 @@
 - 服务器配置：
     - 游戏服务器:
         - CPU: intel i7-6700 @3.7G
-        - RAM: DDR3 20G(2*8+4) 
+        - RAM: DDR3 24G(2*8+4+4) 
         - Disk:
-            - Samsung 850EVO 120G SSD(System Runtime)
+            - Samsung 860EVO 480G SSD(System Runtime & Minecraft Runtime )
+            - Samsung 850EVO 120G SSD(Database Runtime)
             - WDC 2T HDD (Backup Storage) 
-            - Crucial BX300 120G SSD (Minecraft Runtime)
         - Network:
             - 中国电信 200Mbps光纤接入
             - 阿里云 广州二区 BGP多线加速
