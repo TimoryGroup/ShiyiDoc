@@ -14,7 +14,7 @@
 - 联系方式
     - [官网](https://www.mcshiyi.com/)
     - [官方QQ群:369362516](https://jq.qq.com/?_wv=1027&k=5pTDqm8)
-    - [Telegram群组](https://t.me/mcshiyi)
+    - [Telegram群组](https://t.me/joinchat/IdDH-Egtujuf1UzuCWznJw)
     - [Github](https://github.com/timory)
  
     
