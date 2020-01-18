@@ -1,3 +1,4 @@
+* [首页](README.md)  
 * [新人指南](guide.md)  
 * [服务器规定](rules.md)  
 * [白名单申请](whitelist.md)
