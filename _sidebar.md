@@ -1,6 +1,8 @@
 * [首页](README.md)  
 * [新人指南](guide.md)  
 * [服务器规定](rules.md)  
+	- [生存服](rules/sc.md)  
+	- [创造服](rules/cz.md)
 * [白名单申请](whitelist.md)
 * [IP地址/版本](serverlist.md)
 * [更新记录](changelog.md)

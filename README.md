@@ -4,6 +4,8 @@
 
 - #### 新人指南：[查看指南](guide.md)  
 - #### 服务器规定：[阅读规定](rules.md)  
+	- [生存服规定 ](rules/sc.md)
+	- [创造服](rules/cz.md)
 - #### 白名单申请：[开始申请](whitelist.md)
 - #### 服务器IP地址/版本： [查看信息](serverlist.md)
 - #### 更新记录： [更新记录](changelog.md)
@@ -14,10 +16,10 @@
 ## 联系方式
 
 - 联系方式
-    - [官网](https://www.mcshiyi.com/)
+    - [官网: www.mcshiyi.com](https://www.mcshiyi.com/)
     - [官方QQ群:369362516](https://jq.qq.com/?_wv=1027&k=5pTDqm8)
     - [Telegram群组](https://t.me/joinchat/IdDH-Egtujuf1UzuCWznJw)
-    - [Github](https://github.com/TimoryGroup)
+    - [Github: 时忆云计算开源中心](https://github.com/TimoryGroup)
  
     
     
