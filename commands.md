@@ -25,7 +25,7 @@
 
 开启/关闭coi查询，点击可以查询方块或容器
 
-#### 记录查询
+#### Creeper爆炸查询
 > /creeperlookup
 
 查询附近的Creeper爆炸信息
