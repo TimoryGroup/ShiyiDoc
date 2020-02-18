@@ -1,25 +1,15 @@
-# 时忆服务器Wiki
 
-欢迎来到时忆服务器~  
+# Timory时忆 Wiki
 
-- #### 新人指南：[查看指南](guide.md)  
-- #### 服务器规定：[阅读规定](rules.md)  
-	- [生存服规定 ](rules/sc.md)
-	- [创造服](rules/cz.md)
-- #### 白名单申请：[开始申请](whitelist.md)
-- #### 服务器IP地址/版本： [查看信息](serverlist.md)
-- #### 更新记录： [更新记录](changelog.md)
-- #### 可用指令： [指令列表](commands.md)
-- #### 常见问题FAQ：[查看帮助](faq.md)
-- #### 捐赠：[查看记录或捐赠服务器](https://docs.qq.com/sheet/BylWFV4BDbil26gVNE1BFYTw0YwAax1tzI5Y2IQmKC2Cjyb921X9Hk0Y2ZAW35tZdF4ZcRVI1)
+欢迎来到时忆服务器，本wiki将会为您提供一份服务器相关介绍。
+
+[官网](https://www.mcshiyi.com/) | [论坛](https://bbs.mcshiyi.com) | [新人指南] | [服务器规定](join/rules.md) | [常见问题]   
+
+?> 您可以点击菜单按钮展开左侧侧边栏 **(移动设备在左下角)**
 
 ## 联系方式
 
-- 联系方式
-    - [官网: www.mcshiyi.com](https://www.mcshiyi.com/)
-    - [官方QQ群:369362516](https://jq.qq.com/?_wv=1027&k=5pTDqm8)
-    - [Telegram群组](https://t.me/joinchat/IdDH-Egtujuf1UzuCWznJw)
-    - [Github: 时忆云计算开源中心](https://github.com/TimoryGroup)
- 
-    
-    
+- [官网: www.mcshiyi.com](official-website)
+- [官方QQ群:369362516](https://jq.qq.com/?_wv=1027&k=5pTDqm8)
+- [Telegram群组](https://t.me/joinchat/IdDH-Egtujuf1UzuCWznJw)
+- [Github: 时忆云计算开源中心](https://github.com/TimoryGroup)
