@@ -2,3 +2,4 @@
 * [论坛](https://bbs.mcshiyi.com)
 * [博客](https://blog.mcshiyi.com)
 * [Github](https://bbs.mcshiyi.com)
+* [API](dev/api.md)
