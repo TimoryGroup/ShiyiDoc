@@ -3,7 +3,7 @@
     - [服务器规定](join/rules.md)
     - [申请白名单](join/whitelist.md)
 - 新人指南   
-    - [新人向导](guide/playerGuide.md)
+    - 新人向导(建设中)
     - [服务器地址/版本](guide/serverInfo.md)
     - [指令列表](guide/commands.md)
     - [常见问题FAQ](/guide/faq.md)
