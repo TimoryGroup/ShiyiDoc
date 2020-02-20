@@ -9,14 +9,15 @@
     - [常见问题FAQ](/guide/faq.md)
 - 游戏内容
     - 特殊机制(建设中)
-    - [玩家组织](https://bbs.mcshiyi.com/d/3)
-    - [公共规划区](https://bbs.mcshiyi.com/d/5)
+    - [玩家组织](culture/group.md)
+    - 公共规划区(建设中)
     - 服务器地图(建设中)
     - 交通路线(建设中)
 - 文化交流
     - [官方论坛](https://bbs.mcshiyi.com)
-    - [官方博客](https://www.mcshiyi.com '')
+    - [官方博客](https://www.mcshiyi.com)
     - [联系方式]()
+- [隐私保护](privacy/privacy.md)
 - 更新日志
     - [2020](changelogs/2020.md)
     - [2019](changelogs/2019.md)
