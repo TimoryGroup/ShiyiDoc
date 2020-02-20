@@ -1,5 +1,6 @@
 * [官网](https://www.mcshiyi.com)  
 * [论坛](https://bbs.mcshiyi.com)
 * [博客](https://blog.mcshiyi.com)
+* [隐私保护](privacy/privacy.md)
 * [Github](https://github.com/TimoryGroup)
 * [API](dev/api.md)
