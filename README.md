@@ -10,6 +10,6 @@
 ## 联系方式
 - [官网: www.mcshiyi.com](https://www.mcshiyi.com)
 - [论坛: https://bbs.mcshiyi.com](https://bbs.mcshiyi.com)
-- [官方QQ群:369362516](https://jq.qq.com/?_wv=1027&k=5pTDqm8)
+- [官方迎新QQ群:1061728265](https://jq.qq.com/?_wv=1027&k=5BSu3sX)
 - [Telegram群组](https://t.me/joinchat/IdDH-Egtujuf1UzuCWznJw)
 - [Github: 时忆云计算开源中心](https://github.com/TimoryGroup)
