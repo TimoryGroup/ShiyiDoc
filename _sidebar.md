@@ -16,7 +16,7 @@
     - 交通路线(建设中)
 - 文化交流
     - [官方论坛](https://bbs.mcshiyi.com)
-    - [官方博客](https://www.mcshiyi.com)
+    - [官方博客](https://www.mcshiyi.com/blog)
     - [联系方式]()
 - [隐私保护](privacy/privacy.md)
 - 更新日志
