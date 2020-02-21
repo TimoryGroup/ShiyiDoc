@@ -5,7 +5,7 @@
 
 ?> 您可以点击【左侧】菜单按钮，展开侧边栏 **(移动设备在左下角)**
 
-[官网](https://www.mcshiyi.com/) | [申请白名单](join/whitelist.md) | [新人指南(建设中)] | [服务器规定](join/rules.md) | [常见问题](guide/faq.md)   
+[【官网】](https://www.mcshiyi.com/) | [【申请白名单】](join/whitelist.md)  | [【服务器规定】](join/rules.md) | [【常见问题】](guide/faq.md)   
 
 ## 联系方式
 - [官网: www.mcshiyi.com](https://www.mcshiyi.com)

@@ -2,6 +2,7 @@
 - 加入时忆  
     - [服务器规定](join/rules.md)
     - [申请白名单](join/whitelist.md)
+    - [邀请他人](join/application/inviters.md)
 - 新人指南   
     - 新人向导(建设中)
     - [服务器地址/版本](guide/serverInfo.md)
