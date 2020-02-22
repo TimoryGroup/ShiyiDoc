@@ -16,7 +16,7 @@
 
 ?> 希望您能够在阅读以下内容后申请白名单:
 
-1. 《[时忆服务器规定](rules.md)》
+1. 《[时忆服务器规定](join/rules.md)》
 2. 《[时忆隐私政策](https://www.mcshiyi.com/blog/about/privacy-policy.html)》
 
 -----
