@@ -4,7 +4,7 @@
 
 !> 目前服务器实行邀请制，您需要收到邀请才能够进入
 
-如果您希望邀请他人进群，请看这里:[【邀请方式】](join/application/inviters.md)
+如果您希望邀请他人进群，请看这里:[【邀请方式】](/join/application/inviters.md)
 
 -----
 
@@ -16,7 +16,7 @@
 
 ?> 希望您能够在阅读以下内容后申请白名单:
 
-1. 《[时忆服务器规定](join/rules.md)》
+1. 《[时忆服务器规定](/join/rules.md)》
 2. 《[时忆隐私政策](https://www.mcshiyi.com/blog/about/privacy-policy.html)》
 
 -----
@@ -25,7 +25,7 @@
 
 1. 您需要拥有一个**Java版**Minecraft国际正版账户
     - 如果您没有账户，可以[【在这里】](https://minecraft.net)] 购买~
-2. 您已经阅读过了[服务器规定和条款](../join/rules.md)
+2. 您已经阅读过了[服务器规定和条款](/join/rules.md)
 3. 拥有较高个人修养、能良好遵守服务器各项规定~
 
 -----
