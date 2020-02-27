@@ -17,4 +17,4 @@
 - [文化交流](/culture/readme.md)
 - [隐私保护](/privacy/privacy.md)
 - [更新日志](/changelogs/readme.md)
-- [捐赠](https://docs.qq.com/sheet/BylWFV4BDbil26gVNE1BFYTw0YwAax1tzI5Y2IQmKC2Cjyb921X9Hk0Y2ZAW35tZdF4ZcRVI1)
+- [捐赠](https://www.mcshiyi.com/donateserver.html)
