@@ -69,14 +69,18 @@
 
 -----
 
-#### 二、~~论坛申请(暂时关闭)~~
+#### 二、论坛申请
 
-1. ~~申请教程和申请步骤:[点击查看](https://bbs.mcshiyi.com/d/27)~~  
-    - 您可以去试着[逛逛看](https://bbs.mcshiyi.com)
+1.填写[【白名单信息预收集表】](https://wj.qq.com/s2/3175997/f522)
+
+2. 申请教程和申请步骤:[点击查看](https://bbs.mcshiyi.com/d/27)
+    - 您可以先去[逛逛看](https://bbs.mcshiyi.com)
 
 #### 三、邮件申请
 
-1. 请看这里:[【通过Email申请白名单】](join/application/whitelist-by-email.md)
+1.填写[【白名单信息预收集表】](https://wj.qq.com/s2/3175997/f522)
+
+2. 请看这里:[【通过Email申请白名单】](join/application/whitelist-by-email.md)
     - ~~如果您不擅长使用电子邮件，建议选择[论坛申请](#二、论坛申请)~~
 
 ------
