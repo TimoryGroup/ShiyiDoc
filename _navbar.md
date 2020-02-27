@@ -4,3 +4,4 @@
 * [隐私保护](privacy/privacy.md)
 * [Github](https://github.com/TimoryGroup)
 * [API](dev/api.md)
+* [捐赠](https://www.mcshiyi.com/donateserver.html)
