@@ -16,8 +16,12 @@
 封禁列表订阅ID:  
 > ``/uniban subscribe mILRafj8WfFSvB6Fvspu7GCsALsRzdSG8nux5W4JhV8=``
 
-### 2. 时忆
+### 2. Github Banlist Json
 
-开发中...
+> GET ``https://github.com/TimoryGroup/Banlist``
+
+## 其他API
+
+其他API正在开发中...
 
 
