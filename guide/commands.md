@@ -7,7 +7,7 @@
 
 指令|功能
 ---|---
-/server <[服务器id](serverInfo.md)>|切换到指定服务器
+/server <[服务器id](/guide/serverInfo?id=切换服务器)>|切换到指定服务器
 # <消息内容>|将消息发送到QQ群(不需要加/)
 
 !> 为防止骚扰，``spawn服务器``的消息不会被转发
