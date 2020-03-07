@@ -50,7 +50,6 @@
 
 ------
 
-
 ?> 我有邀请人?请确定[符合条件](/join/application/inviters.md)后在申请里按要求填写
 
 
