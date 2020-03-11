@@ -41,7 +41,7 @@ PS:如在问卷未完善的内容可以在邮件申请中补充
 ## 申请方式
 
 1. 您可以按照以上[准备内容](#准备内容)的格式进行填写，然后发送到我们的电子邮箱。
-     - 电子邮件地址: [admin@mcshiyi.com](mailto:admin@mcshiyi.com)
+     - 电子邮件地址: [whilelist@mcshiyi.com](mailto:whilelist@mcshiyi.com)
      - 如果我们收到了您的邮件，将会回复您一封确认邮件
      - 如果您长时间（72小时之内）没有收到我们的回复邮件，建议查询是否邮件进了您的垃圾箱。
         - 我们强烈建议您将我们的域邮件地址 @mcshiyi.com 加入白名单
