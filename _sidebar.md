@@ -4,7 +4,7 @@
     - [申请白名单](/zh-CN/join/whitelist.md)
     - [邀请他人](/zh-CN/join/application/inviters.md)
 - 新人指南   
-    - 新人向导(建设中)
+    - [新人向导](/zh-CN/guide/playerGuide.md)
     - [服务器地址/版本](/zh-CN/guide/serverInfo.md)
     - [指令列表](/zh-CN/guide/commands.md)
     - [常见问题FAQ](/zh-CN/guide/faq.md)

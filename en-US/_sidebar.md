@@ -4,7 +4,7 @@
     - [Whitelist Application (WIP)](/en-US/join/whitelist.md)
     - [Inviter (WIP)](/en-US/join/application/inviters.md)
 - Guide  
-    - Guidelines (WIP)
+    - [Guidelines](/en-US/guide/playerGuide.md)
     - [Server Info (Address/Version)](/en-US/guide/serverInfo.md)
     - [Commands](/en-US/guide/commands.md)
     - [FAQ](/en-US/guide/faq.md)

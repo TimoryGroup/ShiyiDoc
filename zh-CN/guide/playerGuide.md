@@ -1,7 +1,6 @@
-WIP  
-施工中QAQ  
-还没写完啦QAQ  
 # 新人指南~  
+
+?> 本页面正在施工中...
 
 ## 进入服务器  
 1.首先您需要服务器的[白名单](/zh-CN/join/whitelist.md)  
@@ -14,4 +13,5 @@ WIP
   -为了能让您更快融入时忆，您可以加入一个[组织](/zh-CN/culture/group.md)
 
 ---
-> 其他问题，[常见问题FAQ](/zh-CN/guide/faq.md)或许能帮到您
+
+!> 其他问题，[常见问题FAQ](/zh-CN/guide/faq.md)或许能帮到您

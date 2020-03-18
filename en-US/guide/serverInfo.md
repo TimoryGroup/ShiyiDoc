@@ -29,7 +29,7 @@ You can use the command: ``/server <ID>`` to switch between sub-servers.
 
 You can see the sub-server ID below
 
-e.g: ``/server sc``  to survival server
+e.g: ``/server sc`` to survival server
 
 If you forget the server ID，you can use ``/server``to see all the id.
 
