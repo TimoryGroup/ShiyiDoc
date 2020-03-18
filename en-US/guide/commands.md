@@ -1,34 +1,34 @@
-# 指令
+# Commands
 
-本页面将会为您介绍服务器内的指令
+This page will introduce you the commands in the server
 
 
-## 通用指令
+## General Commands
 
-指令|功能
+Command|Function
 ---|---
-/server <[服务器id](/zh-CN/guide/guide/serverInfo.md#切换服务器)>|切换到指定服务器
-# <消息内容>|将消息发送到QQ群(不需要加/)
+/server <[Server Id](/en-US/guide/serverInfo.md#switch-in-sub-server)>|切换到指定服务器
+# <msg>|send msg to qq group(slash is not needed)
 
-!> 为防止骚扰，``spawn服务器``的消息不会被转发
+!> To prevent harassment, msg from the ``spawn`` will not be forwarded to other server.
 
-## 生存服指令
+## SC commands
 
-指令|功能
+Command|Function
 ---|---
-/tps| 查看服务器TPS，TPS>=20则服务器运行正常，<=15则有较为明显的卡顿
-/bd|报点，向所有在线玩家公布自己的坐标，鼠标指向坐标可以测距和测方位
-/co i |方块查询，右键容器可查看操作记录，左键/右键方块位置可查询放置破坏记录
-/creeperlookup | Creeper爆炸查询，可查询附近爆炸的Creeper和爆炸目标
-/nm | 发送匿名消息(请勿滥用此功能:)
-/aoc | 查询动物主人
-/gps| 开启GPS导航
+/tps| view current TPS(tick per sec), TPS<=15 means the server is lagging.
+/bd|send your location to all the other players, put the mouse at chat to measure distance and bearing.
+/co i |right click container to view operation history, left / right block position to query placement/destroy history
+/creeperlookup | lookup Creeper and the explosion targets nearby
+/nm | Sending anonymous message(plz don't abuse:)
+/aoc | Find animal owners
+/gps| open the gps
 
-## 创造服指令
+## CZ commands
 
-?> 提供部分WorldEdit指令尚未整理，如果您愿意补充,欢迎[编辑]
+?> This server allows some WorldEdit command
 
-指令|功能
+Command|Function
 ---|---
-/tpa <玩家名>| 传送到指定玩家身边
+/tpa <player>| teleport to player
 
