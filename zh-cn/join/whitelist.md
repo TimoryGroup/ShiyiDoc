@@ -26,7 +26,7 @@
 1. 服务器开启了**正版验证**，您需要拥有一个**Java版**Minecraft国际正版账户
     - 如果您没有账户，可以[【在这里】](https://minecraft.net)] 购买~
 2. 您已经阅读，充分理解，并同意以下内容
-    - 《[时忆服务器规定](/join/rules.md)》
+    - 《[时忆服务器规定](/zh-cn/join/rules.md)》
     - 《[时忆隐私政策](https://www.mcshiyi.com/blog/about/privacy-policy.html)》
 3. 拥有较高个人修养、能良好遵守时忆服务器的各项规定~
 
@@ -54,14 +54,14 @@
 
 ------
 
-?> 如果您有邀请人邀请您加入时忆的话，请查看这里：[点击这里](/join/application/inviters.md)，
+?> 如果您有邀请人邀请您加入时忆的话，请查看这里：[点击这里](/zh-cn/join/application/inviters.md)，
 
 
 #### 一、邮件申请
 
 1.填写[【白名单信息预申请表】](https://wj.qq.com/s2/3175997/f522)
 
-2. 请看这里:[【通过Email申请白名单】](join/application/whitelist-by-email.md)
+2. 请看这里:[【通过Email申请白名单】](/zh-cn/join/application/whitelist-by-email.md)
     - 如果您不擅长使用电子邮件，建议选择[论坛申请](#二、论坛申请)
 
 #### 二、论坛申请

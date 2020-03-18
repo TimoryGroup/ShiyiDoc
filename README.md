@@ -7,15 +7,15 @@
 
 - [【官网】](https://www.mcshiyi.com/) 
 
-- [【申请白名单】](/join/whitelist.md) 
+- [【申请白名单】](/zh-cn/join/whitelist.md) 
 
-- [【服务器规定】](/join/rules.md)
+- [【服务器规定】](/zh-cn/join/rules.md)
 
-- [【常见问题】](/guide/faq.md)   
+- [【常见问题】](/zh-cn/guide/faq.md)   
 
 ## 联系方式
 - [官网: www.mcshiyi.com](https://www.mcshiyi.com)
-- [论坛: https://bbs.mcshiyi.com](https://bbs.mcshiyi.com)
+- [论坛: bbs.mcshiyi.com](https://bbs.mcshiyi.com)
 - [官方迎新QQ群:1061728265](https://jq.qq.com/?_wv=1027&k=5BSu3sX)
 - [Telegram群组](https://t.me/joinchat/IdDH-Egtujuf1UzuCWznJw)
 - [Github: 时忆云计算开源中心](https://github.com/TimoryGroup)

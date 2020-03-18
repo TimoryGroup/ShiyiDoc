@@ -16,10 +16,10 @@
 - [服务器开放API吗？](###服务器开放API吗？)
 
 ### 怎么申请白名单?
-- 请看这里:[【申请白名单】](/join/whitelist.md)
+- 请看这里:[【申请白名单】](/zh-cn/join/whitelist.md)
 
 ### 我刚进来服务器,要做什么?
-- 请看这里:[新人指南](/guide/playerGuide.md)
+- 请看这里:[新人指南](/zh-cn/guide/guide/playerGuide.md)
 - 页面尚未完善，暂时无法访问，还请谅解~
 
 ### 客户端在哪下载?
@@ -27,7 +27,7 @@
 - 请到[【Minecraft官网】](https://minecraft.net)下载官方客户端
 
 ### 服务器IP地址多少?应该用什么版本进入?
-- 请看这里:[【服务器信息】](/guide/serverInfo.md)
+- 请看这里:[【服务器信息】](/zh-cn/guide/guide/serverInfo.md)
 
 ### 改了游戏ID白名单还在吗?
 - 在的
@@ -48,9 +48,9 @@
 - #### 提示: ``登陆失败:无效的会话``
     - 重启游戏
 - #### 提示: ``您尚未申请白名单``
-    - 请先: [【申请白名单】](/join/whitelist.md)
+    - 请先: [【申请白名单】](/zh-cn/join/whitelist.md)
 - #### 提示: ``Outdated Server ``或 `` Client`` 
-    - 请确认客户端版本是否正确: [【服务器版本】](/guide/serverInfo.md)
+    - 请确认客户端版本是否正确: [【服务器版本】](/zh-cn/guide/guide/serverInfo.md)
     
 ### 服务器没有圈地锁箱,会不会被恶意破坏?
 - 服务器安装了CoreProtect插件，能够记录(也能回档)每个玩家的操作。
@@ -91,6 +91,6 @@
             - 阿里云 广州BGP多线加速
 
 ### 服务器开放API吗？
-- 文档: [【API文档】](/dev/api.md)
+- 文档: [【API文档】](/zh-cn/devcn/dev/api.md)
     - 时忆API正在开发中，感谢您的关注。
 
