@@ -1,4 +1,4 @@
-- [Index]()
+- [Index](/en-US/)
 - Join Us  
     - [Rules (WIP)](/en-US/join/rules.md)
     - [Whitelist Application (WIP)](/en-US/join/whitelist.md)

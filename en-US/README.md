@@ -1,21 +1,23 @@
 
 # Timory时忆 Wiki
 
-Welcome to Timory.
+Welcome to Timory Server.
 
 ?> You can click the button on the left to expand the sidebar. (or left corner for mobile devices)
 
-- [【Official Website】](https://www.mcshiyi.com/) 
+?> Tips: This translation is WIP, you can contact us if you would like to help us translate.
 
-- [【Whitelist Application】](/zh-CN/join/whitelist.md) 
+- [[Official Website (Chinese Only)]](https://www.mcshiyi.com/) 
 
-- [【Rules】](/zh-CN/join/rules.md)
+- [[Whitelist Application]](/en-US/join/whitelist.md) 
 
-- [【FAQ】](/zh-CN/guide/faq.md)   
+- [[Rules]](/en-US/join/rules.md)
+
+- [[FAQ]](/en-US/guide/faq.md)   
 
 ## Contact Us
 - [Official Website: www.mcshiyi.com](https://www.mcshiyi.com)
-- [Forum: https://bbs.mcshiyi.com](https://bbs.mcshiyi.com)
-- [QQ Group:1061728265](https://jq.qq.com/?_wv=1027&k=5BSu3sX)
+- [Forum: bbs.mcshiyi.com](https://bbs.mcshiyi.com)
+- [QQgroup: 1061728265](https://jq.qq.com/?_wv=1027&k=5BSu3sX)
 - [Telegram](https://t.me/joinchat/IdDH-Egtujuf1UzuCWznJw)
-- [Github: Timory-OpenSource Center](https://github.com/TimoryGroup)
+- [Github: Timory Open-Source Center](https://github.com/TimoryGroup)
