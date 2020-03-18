@@ -7,7 +7,7 @@ We not only provide services, we are also committed to protecting your privacy.
 -----
 ## Privacy policy
 
-If you want to know our privacy policy, see：[《Timory privacy policy》(Chinese only)](https://www.mcshiyi.com/blog/about/privacy-policy.html)
+If you want to know our privacy policy, see：[《Timory privacy policy》(Chinese)](https://www.mcshiyi.com/blog/about/privacy-policy.html)
 
 ------
 ## Account cancellation
@@ -26,4 +26,4 @@ If you find content on Timory that infringes your copyright，see:  [【DMCA Req
 
 ## Transparency report
 
-[Timory Transparency report (Chinese Only)](/en-US/privacy/transparencyReport.md)
+[Timory Transparency report (Chinese)](/en-US/privacy/transparencyReport.md)

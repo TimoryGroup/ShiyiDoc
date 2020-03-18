@@ -10,7 +10,7 @@
     - [FAQ](/en-US/guide/faq.md)
 - Mechanism
     - Special Mechanism (WIP)
-    - [Player Organizations (WIP) (Chinese Only)](/en-US/culture/group.md)
+    - [Player Organizations (WIP) (Chinese)](/en-US/culture/group.md)
     - Public Area (WIP)
     - Traffic Maps (WIP)
     - Traffic Routes (WIP)
