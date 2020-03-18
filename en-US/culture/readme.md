@@ -1,13 +1,15 @@
-# 文化交流
+# Culture
+
+> Tips: Our site is currently only available in Simplified Chinese
 
 -----
 
-## 官方论坛
+## Forum
 
-[官方论坛: bbs.mcshiyi.com](https://bbs.mcshiyi.com)
+[Forum: bbs.mcshiyi.com](https://bbs.mcshiyi.com)
 
-## 官方博客
-[官方博客: www.mcshiyi.com/blog](https://www.mcshiyi.com/blog)
+## Blog
+[Blog: www.mcshiyi.com/blog](https://www.mcshiyi.com/blog)
 
-## 联系方式
-[联系方式(见首页)](/README.md)
+## Contact Us
+[Contact Us](/en-US/README.md)

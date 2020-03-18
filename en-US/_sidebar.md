@@ -1,4 +1,4 @@
-- [Index](/en-US/)
+- [Index](/en-US)
 - Join Us  
     - [Rules (WIP)](/en-US/join/rules.md)
     - [Whitelist Application (WIP)](/en-US/join/whitelist.md)
@@ -6,7 +6,7 @@
 - Guide  
     - Guidelines (WIP)
     - [Server Info (Address/Version)](/en-US/guide/serverInfo.md)
-    - [Commands (WIP)](/en-US/guide/commands.md)
+    - [Commands](/en-US/guide/commands.md)
     - [FAQ (WIP)](/en-US/guide/faq.md)
 - Mechanism
     - Special Mechanism (WIP)
@@ -14,7 +14,7 @@
     - Public Area (WIP)
     - Traffic Maps (WIP)
     - Traffic Routes (WIP)
-- [Culture (WIP)](/en-US/culture/readme.md)
+- [Culture](/en-US/culture/readme.md)
 - [Privacy](/en-US/privacy/privacy.md)
 - [Changelog (WIP)](/en-US/changelogs/readme.md)
 - [Donate (WIP)](https://www.mcshiyi.com/donateserver.html)
