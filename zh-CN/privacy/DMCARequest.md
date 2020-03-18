@@ -4,7 +4,7 @@
 
 ## 联系方式:
 
-电子邮件: [privacy@mcshiyi.com](mailto:privacy@mcshiyi.com)
+电子邮件: [dmca@mcshiyi.com](mailto:dmca@mcshiyi.com)
   
 标题: [DMCA移除请求] 关于xxx的移除请求
 
