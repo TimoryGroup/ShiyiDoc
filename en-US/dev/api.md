@@ -18,8 +18,8 @@ Banlist Subscription ID:
 
 ### 2. Github Banlist Json
 
-repo:
-> ``https://github.com/TimoryGroup/Banlist``
+Repo:
+> [https://github.com/TimoryGroup/Banlist](https://github.com/TimoryGroup/Banlist)
 
 ## Other API
 

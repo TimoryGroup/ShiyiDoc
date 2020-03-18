@@ -40,19 +40,19 @@ After confirming your request, we will process the following data:
     - e.g:
         - Your game data: levels、inventories
         - Your login logs
-2. Infomation of Whitelist Application 
-    - This data is stored by Tencent Cloud, and we will request removal from Tencent.
+2. Information of Whitelist Application 
+    - Tencent Cloud stored this data, and we will request removal from Tencent.
 3. Your Whitelist permission
     - Your whitelist will expire, but you can reapply.
 4. Block operation records (up to 180 days)
     - This data will be cleaned up by the automated program when the expiration time is reached.
 5. Your account removal request (up to 90 days)
-    - This data is stored by Tencent Cloud, and we will request removal from Tencent.
+    - Tencent Cloud stored this data, and we will request removal from Tencent.
 
 #### The following data will **NOT BE DELETED**
 1. Ban record (Game Id, UUID, Reason, times)
     - We will not remove this data due to Timory shared the banned list.
-2. Chat Records
+2. Chat logs
     - Because this record exists on other members ’devices, we will not remove this data.
-3. GamePlay Records(e.g: Block placement、Container interaction)
+3. GamePlay records(e.g: Block placement、Container interaction)
     - If you want to remove this record (rollback all actions), please indicate when contacting us.

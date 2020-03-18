@@ -18,7 +18,8 @@
 
 ### 2. Github Banlist Json
 
-> GET ``https://github.com/TimoryGroup/Banlist``
+Repo:
+> [https://github.com/TimoryGroup/Banlist](https://github.com/TimoryGroup/Banlist)
 
 ## 其他API
 

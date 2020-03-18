@@ -35,11 +35,11 @@
 
 在申请之前，建议您可以先:
 
-1. 加入我们的Telegram群: [[CLICK HERE]](https://t.me/joinchat/IdDH-Egtujuf1UzuCWznJw)
+1. Join our Telegram group: [[CLICK HERE]](https://t.me/joinchat/IdDH-Egtujuf1UzuCWznJw)
 
 !> 进群后请 **修改 nickname 为 您的JAVA版minecraft游戏ID**
 
-如果您希望使用QQ，可以使用[[Tencent QQ]](https://jq.qq.com/?_wv=1027&k=59H04f1)
+If you want to use QQ, see: [[Tencent QQ]](https://jq.qq.com/?_wv=1027&k=59H04f1)
 - 您可能需要掌握一定的中文
     
 2. 请选择以下申请方式,开始您的白名单申请吧~
@@ -47,11 +47,10 @@
     
 请注意:
 - 管理员并非是24小时在线，您的留言可能无法立即得到回复，您可以先留言，管理员看到后会尽快回复您的~
-- 如果您有其他疑问，建议您在认真阅读本文档后再进行提问。
 
 ------
 
-?> 如果有人邀请您加入时忆，请看这里：[点击这里](/zh-CN/join/application/inviters.md)，
+?> 如果有人邀请您加入时忆，请看这里：[点击这里](/en-US/join/application/inviters.md)，
 
 
 ### 一、邮件申请
@@ -61,13 +60,13 @@
 1. 您可以按照以下 [准备内容](#准备内容) 的格式进行填写，然后发送到我们的电子邮箱。
      - 电子邮件地址: [whitelist@mcshiyi.com](mailto:whitelist@mcshiyi.com)
      - 如果您长时间（72小时之内）没有收到我们的回复邮件，建议查询是否邮件进了您的垃圾箱。
-        - 我们强烈建议您将我们的域邮件地址 @mcshiyi.com 加入白名单
+        - 我们强烈建议您将我们的域邮件地址 whitelist@mcshiyi.com 加入白名单
 
 #### 准备内容
 
 我们需要您告知我们以下这些信息，以便我们能更好的了解您
 
-邮件主题必须为 **[游戏ID] + 白名单申请**
+邮件主题为 **[Game ID]Whitelist application**
 
 1. (必填)您的Java版 Minecraft **游戏ID**
 2. (必填)您的 **电子邮件地址** (将用于申请结果通知~  
@@ -93,8 +92,6 @@
         - 在某个具有一定影响力的社区或团队任职(例如xx论坛版主/创始人等)
     - 其他您想分享的观点&内容~
 -----
-
-!> 其他管理员 **不处理** 任何白名单申请事宜哦~
 
 ?> 审核将会在**72小时内**完成，结果将以邮件方式通知您，请耐心等待~
 
