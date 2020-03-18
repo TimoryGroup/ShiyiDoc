@@ -1,85 +1,73 @@
-# 常见问题(FAQ)
+# Frequently Ask Questions (FAQ)
 
-## 目录 {docsify-ignore}
+### How to apply the Whitelist?
+- [[Whitelist Applcation]](/en-US/join/whitelist.md)
 
-- [怎么申请白名单](#怎么申请白名单?)
-- [我刚进来服务器，要做什么?](#我刚进来服务器,要做什么?)
-- [客户端在哪下载?](#客户端在哪下载?)
-- [服务器IP地址多少？什么版本?](#服务器IP地址多少?应该用什么版本进入?)
-- [改了游戏ID白名单还在吗?](#改了游戏ID白名单还在吗?)
-- [进不去服务器](#进不去服务器)
-- [没有圈地锁箱, 会不会被恶意破坏？](#服务器没有圈地锁箱,会不会被恶意破坏?)
-- [什么时候更新版本？](#新版本都出了,服务器什么时候更新?)
-- [服务器换周目删档吗？](#服务器换周目删档吗？)
-- [查看在线的玩家](#怎么查看服务器在线的玩家？)
-- [时忆服务器的配置？](#时忆服务器的配置是？)
-- [服务器开放API吗？](#服务器开放API吗？)
+### What should I do?
+- [Guidance](/en-US/guide/playerGuide.md)
+- This page is wip
 
-### 怎么申请白名单?
-- 请看这里:[【申请白名单】](/zh-CN/join/whitelist.md)
+### What is the server IP address? Which version should I use to enter?
+- See: [[Server Info]](/en-US/guide/serverInfo.md)
 
-### 我刚进来服务器,要做什么?
-- 请看这里:[新人指南](/zh-CN/guide/guide/playerGuide.md)
-- 页面尚未完善，暂时无法访问，还请谅解~
+### Do I need to reapply for the whitelist when I change my ID ?
+- Genuine accounts use a series of characters called UUIDs to represent users.
+- The UUID of each user is different and cannot be modified after registration.
+- Modifying the game ID does not modify the UUID, so the whitelist does not expire.
+    - You can see [[here]](https://namemc.com/) to lookup your UUID.
 
-### 客户端在哪下载?
-- 由于版权原因，我们不提供客户端下载
-- 请到[【Minecraft官网】](https://minecraft.net)下载官方客户端
-
-### 服务器IP地址多少?应该用什么版本进入?
-- 请看这里:[【服务器信息】](/zh-CN/guide/guide/serverInfo.md)
-
-### 改了游戏ID白名单还在吗?
-- 在的
-- 正版账户使用一串叫做UUID的字符来表示用户，每个用户的UUID都不一样，且注册后就不可修改。
-- 修改游戏ID不会修改UUID，所以白名单不会失效。
-    - 您可以到[【这里】](https://namemc.com/)查询您的UUID
-
-### 进不去服务器
-- #### 提示: ``Cannot resolve hostname``
-     - 请确认输入的地址是否正确
-     - 刷新DNS缓存
-- #### 提示: ``Can't connect to server``
-    - 请查看群公告，确认是否在维护
-        - 正在维护中：
-            - 请耐心等待维护完毕
-        - 没有维护：
-            - 请联系管理员处理 
-- #### 提示: ``登陆失败:无效的会话``
-    - 重启游戏
-- #### 提示: ``您尚未申请白名单``
-    - 请先: [【申请白名单】](/zh-CN/join/whitelist.md)
-- #### 提示: ``Outdated Server ``或 `` Client`` 
-    - 请确认客户端版本是否正确: [【服务器版本】](/zh-CN/guide/guide/serverInfo.md)
+### Unable to join server
+- #### ``Cannot resolve hostname``
+     - Check the address you entered
+     - Flush your dns
+- #### ``Can't connect to server``
+    - Check the group announcement to see if it is being maintained
+        - YES：
+            - Please wait patiently for maintenance
+        - NO：
+            - Please contact the administrator
+- ####  ``failed to login: invalid session``
+    - Reboot your client
+- ####  ``您尚未申请白名单``
+    - Please apply whitelist first in here: [[Whitelist Applcations]](/en-US/join/whitelist.md)
+- ####  ``Outdated Server ``或 `` Client`` 
+    - See: [[Server Info]](/en-US/guide/serverInfo.md)
     
-### 服务器没有圈地锁箱,会不会被恶意破坏?
-- 服务器安装了CoreProtect插件，能够记录(也能回档)每个玩家的操作。
-- 您可以使用``/co i ``开启查询器，点击方块查询放置记录，右键箱子查看物品操作记录。
-- 如果您的财产被恶意破坏，请联系管理员处理。
+### Will maliciously damage in the server ?
+- We have CoreProtect plugin, which can log (also rollback) the actions of each player.
+- You can use `` / co i '' to open the lookup tools,
+    - left-click the block to lookup the placement record
+    - right-click the container to view the item operation record.
+- If your property have been damaged, contact admin.
 
-### 新版本都出了,服务器什么时候更新?
-- 由于升级版本可能带来不可预料的问题，为了对大家负责，我们不会立即更新最新版本，还请谅解。
-    - 首先我们需要等待新的稳定版服务端发布(Spigot/Paper)，经过一段时间测试后确认无问题，才会正式更新服务器版本。
-    - 部分服务器的插件可能无法兼容新版本，则我们将会在保证稳定的基础上，支持新版本客户端的进入(但不会包含新版本的游戏内容)
-    - 如果新版本不兼容当前版本的存档，我们将会在QQ群内通知，视情况考虑删档问题（请参阅 [Q: 服务器换周目删档吗？](#服务器换周目删档吗？)）
-    - 如果您想提前游玩新版本，~~可以进入Future服务器~~ Future服务器目前暂时关闭
-    - 通常情况下，生存服大约会在新版本正式版发布1~3个月更新
+### When will the new version updated ?
+- Because the upgraded version may bring unexpected problems.
+- in order to be responsible to everyone, we will not update the latest version immediately.
+    - First, we need to wait for the release of the new stable server (Spigot / Paper). 
+ when we confirmed that there is no problem, we will update the version.
+    - Some server plug-ins may not be compatible with the new version, 
+    then we will support the entry of the new version of the client on the basis of ensuring stability 
+    (but will not include the new version of the game content)
+    - If the new version is not compatible with the current version, 
+    we will notify within the group and consider deleting files as appropriate.
+    - Under normal circumstances, server will be updated about 1-3 months after the new version is released.
 
-### 服务器换周目删档吗？
-- 通常情况下不会删档，除非：
-    - 新版本不兼容旧版本地图
-    - 旧版本严重损坏
-    - 其他特殊情况   
-- 删档后将可能公开旧版本存档或开启旧版本服务器供下载。       
+### Does the server delete world?
+- world not be deleted unless:
+    - New version is not compatible with old version
+    - World is badly damaged
+    - Other special circumstances 
+- After change to new world, the old world may be opened for download.     
         
-### 怎么查看服务器在线的玩家？
-- 请 **群内私聊** 机器人（QQ：26897**649）发送以下指令``:list``，机器人将会向您发送服务器在线的人数。
-- 如果机器人长时间未回复，请联系管理员。
+### How to check the online player？
+- Sorry, Lookup in Telegram **is not support yet**, you need to use the Tencent QQ.
+- Send **Private Message** to bot（QQ: 26897**649）on QQ, and send this command: ``:list``.
+- If bot has not responded for a long time, contact the admin.
 
 
-### 时忆服务器的配置是？
-- 服务器配置：
-    - 游戏服务器:
+### What is the server hardware？
+- Hardware：
+    - GameServer:
         - CPU: intel i7-6700 @3.7G
         - RAM: DDR3 28G(3*8+4) 
         - Disk:
@@ -87,10 +75,9 @@
             - Samsung 850EVO 120G SSD(Database Runtime)
             - WDC 2T HDD (Backup Storage) 
         - Network:
-            - 中国电信 200Mbps光纤接入
-            - 阿里云 广州BGP多线加速
+            - China Telecom 200Mbps
+            - AliCloud BGP router in Guangzhou, China.
 
-### 服务器开放API吗？
-- 文档: [【API文档】](/zh-CN/devcn/dev/api.md)
-    - 时忆API正在开发中，感谢您的关注。
+### Does the server have API?？
+- doc: [[Api Doc]](/en-US/dev/api.md)
 
