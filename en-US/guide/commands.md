@@ -7,7 +7,7 @@ This page will introduce you the commands in the server
 
 Command|Function
 ---|---
-/server <[Server Id](/en-US/guide/serverInfo.md#switch-in-sub-server)>|切换到指定服务器
+/server <[Server Id](/en-US/guide/serverInfo.md#switch-in-sub-server)>|switch to target server
 # <msg>|send msg to qq group(slash is not needed)
 
 !> To prevent harassment, msg from the ``spawn`` will not be forwarded to other server.
