@@ -1,0 +1,20 @@
+- [Index]()
+- Join Us  
+    - [Rules (WIP)](/zh-CN/join/rules.md)
+    - [Whitelist Application (WIP)](/zh-CN/join/whitelist.md)
+    - [Inviter (WIP)](/zh-CN/join/application/inviters.md)
+- Guide  
+    - Guidelines (WIP)
+    - [Server Info (Address/Version)](/en-US/guide/serverInfo.md)
+    - [Commands (WIP)](/zh-CN/guide/commands.md)
+    - [FAQ (WIP)](/zh-CN/guide/faq.md)
+- Mechanism
+    - Special Mechanism (WIP)
+    - [Player Organizations (WIP) (Chinese Only)](/zh-CN/culture/group.md)
+    - Public Area (WIP)
+    - Traffic Maps (WIP)
+    - Traffic Routes (WIP)
+- [Culture (WIP)](/zh-CN/culture/readme.md)
+- [Privacy](/en-US/privacy/privacy.md)
+- [Changelog (WIP)](/zh-CN/changelogs/readme.md)
+- [Donate (WIP)](https://www.mcshiyi.com/donateserver.html)
