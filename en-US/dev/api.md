@@ -1,27 +1,28 @@
-# 时忆API
+# Timory API
 
-本页面为开发者提供时忆已开放的API
+This page provides developers with our API
 
-?> API正在施工中哦~
+?> API is WIP
 
-如果您有想要的api，欢迎联系: [ShirosakiMieru](mailto:shirosaki@mieru.moe)
+If you have any question, please contact: [ShirosakiMieru](mailto:shirosaki@mieru.moe)
 
 ------
 
-## 封禁列表API
+## Banlsit API
 
-### 1. UniBan联合封禁
-!> 需使用[UniBan联合封禁插件](https://uniban.eumc.cc/)
+### 1. UniBan
+!> Plugin [UniBan](https://uniban.eumc.cc/) is required.
 
-封禁列表订阅ID:  
+Banlist Subscription ID:  
 > ``/uniban subscribe mILRafj8WfFSvB6Fvspu7GCsALsRzdSG8nux5W4JhV8=``
 
 ### 2. Github Banlist Json
 
-> GET ``https://github.com/TimoryGroup/Banlist``
+repo:
+> ``https://github.com/TimoryGroup/Banlist``
 
-## 其他API
+## Other API
 
-其他API正在开发中...
+Work in progrss...
 
 

@@ -1,7 +1,7 @@
 * [官网](https://www.mcshiyi.com)  
 * [论坛](https://bbs.mcshiyi.com)
 * [博客](https://blog.mcshiyi.com)
-* [隐私保护](zh-CN/privacy/privacy.md)
+* [隐私保护](/zh-CN/privacy/privacy.md)
 * 语言 | Languages
     * [简体中文](/)
     * [English (WIP)](/en-US/)

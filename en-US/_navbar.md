@@ -1,7 +1,7 @@
 * [Official Website](https://www.mcshiyi.com)  
 * [Forum](https://bbs.mcshiyi.com)
 * [Blog](https://blog.mcshiyi.com)
-* [Privacy](zh-cn/privacy/privacy.md)
+* [Privacy](/en-US/privacy/privacy.md)
 * 语言 | Languages
     * [简体中文](/)
     * [English (WIP)](/en-US/)
@@ -10,5 +10,5 @@
     * [한국어 (WIP)](/ko-KR/)
 * Developer
     * [Github](https://github.com/TimoryGroup)
-    * [API](/zh-CN/dev/api.md)
+    * [API](/en-US/dev/api.md)
 * [Donate](https://www.mcshiyi.com/donateserver.html)
