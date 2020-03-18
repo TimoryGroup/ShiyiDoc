@@ -3,14 +3,14 @@
 ### How to apply the Whitelist?
 - [[Whitelist Applcation]](/en-US/join/whitelist.md)
 
-### What should I do?
-- [Guidance](/en-US/guide/playerGuide.md)
+### What should I do after join server?
 - This page is wip
+- [Guidance](/en-US/guide/playerGuide.md)
 
-### What is the server IP address? Which version should I use to enter?
+### What is the server address? Which version should I use?
 - See: [[Server Info]](/en-US/guide/serverInfo.md)
 
-### Do I need to reapply for the whitelist when I change my ID ?
+### Do I need to reapply for the whitelist after I changed my ID ?
 - Genuine accounts use a series of characters called UUIDs to represent users.
 - The UUID of each user is different and cannot be modified after registration.
 - Modifying the game ID does not modify the UUID, so the whitelist does not expire.
@@ -33,14 +33,14 @@
 - ####  ``Outdated Server ``或 `` Client`` 
     - See: [[Server Info]](/en-US/guide/serverInfo.md)
     
-### Will maliciously damage in the server ?
+### Will maliciously damage in the server?
 - We have CoreProtect plugin, which can log (also rollback) the actions of each player.
 - You can use `` / co i '' to open the lookup tools,
     - left-click the block to lookup the placement record
     - right-click the container to view the item operation record.
 - If your property have been damaged, contact admin.
 
-### When will the new version updated ?
+### When will the new version updated?
 - Because the upgraded version may bring unexpected problems.
 - in order to be responsible to everyone, we will not update the latest version immediately.
     - First, we need to wait for the release of the new stable server (Spigot / Paper). 
@@ -55,7 +55,7 @@
 ### Does the server delete world?
 - world not be deleted unless:
     - New version is not compatible with old version
-    - World is badly damaged
+    - World badly damaged
     - Other special circumstances 
 - After change to new world, the old world may be opened for download.     
         
@@ -78,6 +78,6 @@
             - China Telecom 200Mbps
             - AliCloud BGP router in Guangzhou, China.
 
-### Does the server have API?？
+### Does the server have API?
 - doc: [[Api Doc]](/en-US/dev/api.md)
 

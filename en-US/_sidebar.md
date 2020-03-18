@@ -7,7 +7,7 @@
     - Guidelines (WIP)
     - [Server Info (Address/Version)](/en-US/guide/serverInfo.md)
     - [Commands](/en-US/guide/commands.md)
-    - [FAQ (WIP)](/en-US/guide/faq.md)
+    - [FAQ](/en-US/guide/faq.md)
 - Mechanism
     - Special Mechanism (WIP)
     - [Player Organizations (WIP) (Chinese Only)](/en-US/culture/group.md)
