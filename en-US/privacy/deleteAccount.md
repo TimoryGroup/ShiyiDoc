@@ -23,7 +23,7 @@ You can contact us if you want to delete your account from our server.
 ## Precautions
 > If we cannot confirm ownership of this account, we will **NOT** take action.
 
-?> When we confirmed this action, deletion will begin immediately. we will notify you by email within **72 hours**.
+?> When we confirmed this action, deletion will begin immediately. We will notify you by email within **72 hours**.
 
 !> This may take up to **30** days. Request **CANNOT** be revoked 
 
