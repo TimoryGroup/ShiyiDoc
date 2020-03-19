@@ -2,111 +2,116 @@
 
 ## About Timory
 
-在正式申请白名单我们非常希望您能简单的了解一下我们~
+Before applying for out whitelist, we would like introduce ourselves briefly.
 
-首先，非常感谢您在万千服务器中选择了时忆。  
-时忆创建于2016年6月13日，  
-我们在尽可能保证让玩家畅游Minecraft这个独特的世界的同时，  
-也在致力于营造一个温馨、和谐、友善的游戏氛围，结交一群志同道合的朋友。  
-为了实现这个远大的目标，时忆采用了严格的白名单申请制度。  
-如果您也有与我们相似的愿景，那么欢迎您加入我们~  
+First of all, we would like to thank you for choosing our server among thousands and millions of servers.
+Timory is establish at June 13th of 2016,
 
-茫茫人海，与您相遇，是我们的荣幸。
+We do our best on keeping players gaming experience smooth and clean in
+this unique world; and at the same time, we are passion-ed in building a warm,
+harmonic, and friendly environment for players to make friends and families.
+For fulfilling this broad and ambitious target, Timory uses a very strict
+whitelist application system.
 
-请向下滑动开始时忆的白名单申请吧！
+It is our pleasure and motivation for meeting you in the ocean of the internet.
+
+Scroll down for starting the White-list Application.
+
 
 ## Precautions
 
-1. 每个Minecraft账户只允许提交**一次**白名单申请，态度决定一切，请认真填写哦~
-2. 申请未通过后，此账户**一年后可再次申请**~
+1. Each Minecraft account only has 1 chance for applying our white-list,
+it is heavily depended on your attitude, so please apply seriously.
+2. If you have failed the application, another
+chance will be provided at the next year.
+
 
 ## Prerequisite
 
-1. 服务器开启了**正版验证**，您需要拥有一个**Java版**Minecraft国际正版账户
-    - 如果您没有账户，可以[【在这里】](https://minecraft.net)] 购买~
-2. 您已经阅读，充分理解，并同意以下内容
-    - 《[时忆服务器规定](/en-US/join/rules.md)》
-    - 《[时忆隐私政策](https://www.mcshiyi.com/blog/about/privacy-policy.html)》
-3. 拥有较高个人修养、能良好遵守时忆服务器的各项规定~
+1. You need a legal Minecraft account (Java edition).
+    - If you don’t own a legal account, you can Purchase [Here](https://minecraft.net)] .
+2. You would need to read, fully understand and agrees to the contents sited below.
+- [Timory Server Rules](/en-US/join/rules.md)
+- [Timory Privacy Policies (Chinese)](https://www.mcshiyi.com/blog/about/privacy-policy.html)
+3. You would need to have a rather high personal cultivation, and willing to comply with our 	server rules.
 
 ------
 
 ## Steps
 
-在申请之前，建议您可以先:
+Before application, we suggest you to:
 
 1. Join our Telegram group: [[CLICK HERE]](https://t.me/joinchat/IdDH-Egtujuf1UzuCWznJw)
 
-!> 进群后请 **修改 nickname 为 您的JAVA版minecraft游戏ID**
+!> Please change your ID to your Minecraft ID after you have entered group chat.
 
-If you want to use QQ, see: [[Tencent QQ]](https://jq.qq.com/?_wv=1027&k=59H04f1)
-- 您可能需要掌握一定的中文
+If you are willing to use QQ (Which might help us feed back to you faster), see: [[Tencent QQ]](https://jq.qq.com/?_wv=1027&k=59H04f1)
+- You might be acquired with some level of Chinese.
     
-2. 请选择以下申请方式,开始您的白名单申请吧~
-    1. [【邮件申请】](#一、邮件申请)
+2. 2. Choose the application window site below, and get started~
+    1. [E-mail Application](#E-mail-Application)
     
-请注意:
-- 管理员并非是24小时在线，您的留言可能无法立即得到回复，您可以先留言，管理员看到后会尽快回复您的~
+Please be understand that:
+Admins are not online 24/7, the message might not be feed backed immediately. You can leave a message to us, and we will get to you as soon as possible.
+
+If there are someone who invited you, please check: [HERE](/en-US/join/application/inviters.md)
 
 ------
 
-?> 如果有人邀请您加入时忆，请看这里：[点击这里](/en-US/join/application/inviters.md)，
+### E-mail Application 
 
+#### Application Methods
+1. You can fill up the Templates[Templates](#Templates) and send to us using E-mail.
+     - Our E-mail address is: [whitelist@mcshiyi.com](mailto:whitelist@mcshiyi.com)
+     - If you haven’t receive feed back in 72 hours, we suggest you to check if our email is in the Trash bin.
+        - We strongly suggest you to put our e-mail address on white-list.
 
-### 一、邮件申请
+#### Templates
 
-#### 申请方式
+We would need you to tell us the information sited bellow, in order to let us to learn you better.
 
-1. 您可以按照以下 [准备内容](#准备内容) 的格式进行填写，然后发送到我们的电子邮箱。
-     - 电子邮件地址: [whitelist@mcshiyi.com](mailto:whitelist@mcshiyi.com)
-     - 如果您长时间（72小时之内）没有收到我们的回复邮件，建议查询是否邮件进了您的垃圾箱。
-        - 我们强烈建议您将我们的域邮件地址 whitelist@mcshiyi.com 加入白名单
+E-mail title needs to be: **[Game ID]Whitelist application**
 
-#### 准备内容
-
-我们需要您告知我们以下这些信息，以便我们能更好的了解您
-
-邮件主题为 **[Game ID]Whitelist application**
-
-1. (必填)您的Java版 Minecraft **游戏ID**
-2. (必填)您的 **电子邮件地址** (将用于申请结果通知~  
-3. (如果有)服务器内邀请人
-    -请填写邀请人的游戏ID，QQ号等信息
-    -邀请人必须满足[这些条件](/en-US/join/application/inviters.md), 否则为无效邀请
-4. (选填内容)尽可能的让我们了解您
-    - 您个人的一些简单介绍：
-        - 您擅长的东西
-        - 您的喜好
-        - 您的个人页面(如: Blog, GitHub, Twitter, Instagram等等)
+1. (Required) Your Minecraft GameID for Java version 
+2. (Required) Your E-mail address, for us to send the results to. 
+3. (If there is) Inviter’s GameID, Social media number related to us
+    + In order to be an Inviter, you need to achieve [these](/en-US/join/application/inviters.md) Conditions.
+4. (Optional) Tell us about you self if possible. 
+    - Some brief introduction to your self:
+        - Something that you are good at
+        - Your Hobbies
+        - Your Social pages such as Facebook, Telegram, Instagram.
         - etc...
-    - 关于时忆：
-        - 您希望在时忆遇到一群什么样的伙伴
-        - 您对时忆有什么期望或是愿景
-        - 如果您未能通过时忆的审核，您想要做些什么
+    - About Timory:
+        - What kind of players would you expect to see in our server, and to be friend with?
+        - Expectations or wishes to our server
+        - What would you like to do if you have failed to pass the application?
         - etc..
-    - 让我们看到优秀的您，以下可以作为您的申请加分项:  
-        - 有视频和优秀内容创作经验，粉丝数500以上
-        - 有较为优秀的开发项目 / 单个开源项目达到20 Star及以上
-        - 熟练使用PS/AE/PR等，并能提供相应的作品展示给我们
-        - 拥有一定的才艺或是技能
-        - 在某个具有一定影响力的社区或团队任职(例如xx论坛版主/创始人等)
-    - 其他您想分享的观点&内容~
+    - Tell us about the wonderfulness that you are, the references written below could help you to get through the application better. 
+        - Having experience on editing Videos and making contents, and having 500+ subs on Youtube or other platform.
+        - Having a rather well-done PROJECT/ Single OSP reaches 20 Star or above.
+        - Skilled at PS/AE/PR etc... and showing us the project that you’ve worked on.
+        - Talents or Skills that you have.
+        - Holding posts in rather a large influential platform or community. (such as xxx blog manager/ founder)
+    - Any other details that you are willing to share to us.
 -----
 
-?> 审核将会在**72小时内**完成，结果将以邮件方式通知您，请耐心等待~
+?> The Application will be progressed in **72 hours**, and the results would be sent to you by E-mail.
 
 ------
 
-## 申请失败怎么办?
+## What if I failed the Application?
 
-人生并不是一帆风顺，挫折失败是在所难免的。
+Life does not always proceed like you have expected, there will always be failures and mistakes.
 
-审核失败可能代表时忆不太能满足您的要求~  
+Failing the application only means that you might not suit our server, you are still the very wonderful person that you always were. 
 
-您可以在[【这里】](http://www.mcbbs.net/forum-server-1.html) 挑选其他您更加想要游玩的正版服务器哦~  
+Timory will not let any players wishes to join our server down.
 
-时忆也不会辜负每一个渴望融入时忆这个小家庭的人，  
+if you happen to fail our application,
+you will be provided with another chance next year.
 
-如果您第一次白名单申请失败了，您可以在一年以后再次提交白名单申请，  
+We will be growing with you in this year of farewell...
 
-时忆愿与您在这分别的一年里一起成长。  
+----
+Thanks Skydo817 for helping translate

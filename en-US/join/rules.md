@@ -1,50 +1,64 @@
-# 服务器规定
+# Server Rules
 
-!> 时忆正与其他正版服务器[**共享封禁名单**](https://guide.mcshiyi.com/dev/api)。当违反了规定被封禁，将**可能无法进入其他服务器**。
-
+!> Please be in mind that Timory shares [**banlists**](/en-US/dev/api.md)
+with other Minecraft servers.
+Which may affect logging in other servers when you are banned.
 ------
 
-?> 不要做正常人都知道不能做的事情，不知道能不能做之前请先问问其他人
+?> Please use you common sense, not to do things that you are NOT supposed to do.
 
-0. 文明交流，尊重他人。
+1. Communicate with civilized languages, and respect each other.
 
-1. 请勿恶意偷窃、破坏 他人财产和公共设施。
+2. Do not steal or damage other player’s properties or facilities
 
-2. 请勿在未经许可的情况下进行PVP
+3. Do not PVP without permission.
 
-3. 请勿做出影响时忆其他玩家/服务器正常游戏/运营的行为:
-    - 不合时宜的内容, 例：
-      - 骚扰、无意义复读、色情、恐怖、政治敏感等可能令人不适的内容
-      - 违反 中国大陆 或 香港特别行政区 法律法规的内容
-      - 宣传盗版资源
-    - 攻击服务器/对服务器正常运营造成压力，例：
+4. Behaviors that may interfere other players' gameplay/server running/operation up-keeping are not allowed, such as:
+    - Restricted messages:
+      - Contents includes Harassing, Pornographic, Horror, Political sensitivities.
+      - Violating Mainland China’s or Hongkong Special District’s Law and Regulations.
+      - Promoting Pirated copies are NOT allowed.
+    - Attacking Server/ Making server lagging such as:
       - DDOS
-      - 故意建造卡服设施
-      - 恶意利用游戏bug(例:区块溢出)
-    - 影响其他玩家正常游戏的行为，例：
-      - 挑衅、攻击其他玩家
-      - 引起其他玩家反感的言论/行为
-    - 由于建筑、机器、养殖场及其他设施导致的服务器卡顿，管理组有权要求拥有者**无条件**进行 停机/关闭/拆除 等操作。
-        - 一些建议：
-            - 尽量少用漏斗
-            - 可以向其他玩家借用刷怪设施等大型器械
+      - Intentionally building facilities that might cause lagging in server.
+      - Malicious use of game BUG. (e.g:chunk duplicate)
+    - Behaviors that interface other player’s gaming experiences:
+      - Attack or Insulting other player.
+      - Contents/ Behavior that disturbs other players.
+    - Due to the reason of Buildings, Machines, Farms or other facilities may 
+    cause the server to lag. Therefore, the Admins has the right to demand the 
+    owner to Stop/ Shut down/ Remove **Unconditionally**.
+        - Some advice：
+            - Try to use less hopper.
+            - Using other player’s facilities with permission.
 
-4. 禁止任何非常规游戏行为，例：
-    - 使用透明材质，矿物追踪，飞天等非正常游戏mod和作弊客户端
-      - 修改gamma值、使用小地图(无生物矿物雷达) **暂不认定**为作弊，但不建议您进行此类修改。
-      - 投影mod 不视为作弊
+5. Irregular gaming behaviors are Strictly Restricted, Such as:
+    - Using irregular gaming mods and cheat clients such as x-ray, flying, cheating-clients
+      - Altering Gamma rate, using Map mods (without mobs and ore radars) are not considered as cheating at the moment.
+      - Litematica Mod is not considered as cheating
 
 -------
 
-注：
+Annotation:
 
-对于违反规定所得到的处罚等级(警告、移除白名单、封禁等)将由时忆管理组决定，如有疑问或异议请在处罚决定下达后**24小时内**提出申诉。
+The level of penalties due to the violation of server rules, such as warning, removing white-list,
+ban, and ect) are measured and decided by the Administrators;
+if there are any questions or objections, please contact us in 24 hours
+after the penalties are executed.
 
-当您进入服务器，**视为您已阅读并同意本条款**。
+When you joined our server,
+we will consider you are fully understood and agrees to the Server rules.
 
-其他因服务器发展或周目更替而变动的具体规定**恕不另行告知**。
+If there are conditions that might cause further changes in regulations or renewing map,
+please understand we might proceed without notice.
 
-其他不包含在以上内容，但是未来可能会发生的事件，时忆服务器管理组**有权根据情况灵活处置**。
+Circumstances with are not noticed in the rules above, which also happens to happen
+in the future; The Timory Admin group has the right to execute depending on the 
+circumstance itself.
 
-时忆服务器管理组  
-2020年03月06日  
+Timory Admin Group
+
+2020/03/19  
+
+----
+Thanks Skydo817 for helping translate

@@ -25,7 +25,7 @@ Command|Function
 
 ## Server:cz commands
 
-?> This server allows some WorldEdit command
+?> This server allows some WorldEdit commands
 
 Command|Function
 ---|---
