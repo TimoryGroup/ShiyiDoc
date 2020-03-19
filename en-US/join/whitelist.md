@@ -20,7 +20,7 @@ Scroll down for starting the White-list Application.
 
 ## Precautions
 
-1. Each Minecraft account only has 1 chance for applying our white-list,
+1. Each Minecraft account only has only 1 chance for applying our white-list,
 it is heavily depended on your attitude, so please apply seriously.
 2. If you have failed the application, another
 chance will be provided at the next year.
@@ -61,7 +61,7 @@ If there are someone who invited you, please check: [HERE](/en-US/join/applicati
 ### E-mail Application 
 
 #### Application Methods
-1. You can fill up the Templates[Templates](#Templates) and send to us using E-mail.
+1. You can fill up the templates[Templates](#Templates) and send to us using E-mail.
      - Our E-mail address is: [whitelist@mcshiyi.com](mailto:whitelist@mcshiyi.com)
      - If you haven’t receive feed back in 72 hours, we suggest you to check if our email is in the Trash bin.
         - We strongly suggest you to put our e-mail address on white-list.
@@ -70,7 +70,7 @@ If there are someone who invited you, please check: [HERE](/en-US/join/applicati
 
 We would need you to tell us the information sited bellow, in order to let us to learn you better.
 
-E-mail title needs to be: **[Game ID]Whitelist application**
+E-mail title needs to be: **[Game ID] Whitelist application**
 
 1. (Required) Your Minecraft GameID for Java version 
 2. (Required) Your E-mail address, for us to send the results to. 
@@ -91,7 +91,7 @@ E-mail title needs to be: **[Game ID]Whitelist application**
         - Having experience on editing Videos and making contents, and having 500+ subs on Youtube or other platform.
         - Having a rather well-done PROJECT/ Single OSP reaches 20 Star or above.
         - Skilled at PS/AE/PR etc... and showing us the project that you’ve worked on.
-        - Talents or Skills that you have.
+        - Talents or skills that you have.
         - Holding posts in rather a large influential platform or community. (such as xxx blog manager/ founder)
     - Any other details that you are willing to share to us.
 -----
@@ -106,9 +106,9 @@ Life does not always proceed like you have expected, there will always be failur
 
 Failing the application only means that you might not suit our server, you are still the very wonderful person that you always were. 
 
-Timory will not let any players wishes to join our server down.
+Timory will not let any players who wishes to join our server down.
 
-if you happen to fail our application,
+If you happen to fail our application,
 you will be provided with another chance next year.
 
 We will be growing with you in this year of farewell...

@@ -21,7 +21,7 @@ Command|Function
 /creeperlookup | lookup Creeper and the explosion targets nearby
 /nm | Sending anonymous message(plz don't abuse:)
 /aoc | Find animal owners
-/gps| open the gps
+/gps| Turn on the gps
 
 ## Server:cz commands
 
