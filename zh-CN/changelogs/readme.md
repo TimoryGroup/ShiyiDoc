@@ -4,10 +4,10 @@
 
 
 ## 2020年 
-[2020](/zh-CN/changelogsgelogs/2020.md)
+[2020](/zh-CN/changelogs/2020.md)
 
 ## 2019年 
-[2019](/zh-CN/changelogsgelogs/2019.md)
+[2019](/zh-CN/changelogs/2019.md)
 
 ## 2018年及之前 
-[2018及之前](/zh-CN/changelogsgelogs/2018及之前.md)
+[2018及之前](/zh-CN/changelogs/2018及之前.md)
