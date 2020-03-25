@@ -4,8 +4,6 @@
 
 ?> API正在施工中哦~
 
-如果您有想要的api，欢迎联系: [ShirosakiMieru](mailto:shirosaki@mieru.moe)
-
 ------
 
 ## 封禁列表API
@@ -18,11 +16,11 @@
 
 ### 2. Github Banlist Json
 
-Repo:
+Repo:  
 > [https://github.com/TimoryGroup/Banlist](https://github.com/TimoryGroup/Banlist)
 
 ## 其他API
 
-其他API正在开发中...
+其他API正在开发中，敬请期待...
 
 

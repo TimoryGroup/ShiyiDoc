@@ -3,17 +3,17 @@
     - [服务器规定](/zh-CN/join/rules.md)
     - [申请白名单](/zh-CN/join/whitelist.md)
     - [邀请他人](/zh-CN/join/application/inviters.md)
-- 新人指南   
+- 时忆指南   
     - [新人向导](/zh-CN/guide/playerGuide.md)
     - [服务器地址/版本](/zh-CN/guide/serverInfo.md)
     - [指令列表](/zh-CN/guide/commands.md)
     - [常见问题FAQ](/zh-CN/guide/faq.md)
 - 游戏内容
-    - 特殊机制(建设中)
     - [玩家组织](/zh-CN/culture/group.md)
-    - 公共规划区(建设中)
-    - 服务器地图(建设中)
-    - 交通路线(建设中)
+    - 特殊机制 (建设中)
+    - 公共规划区 (建设中)
+    - 服务器地图 (建设中)
+    - 交通路线 (建设中)
 - [文化交流](/zh-CN/culture/readme.md)
 - [隐私保护](/zh-CN/privacy/privacy.md)
 - [更新日志](/zh-CN/changelogs/readme.md)

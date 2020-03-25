@@ -8,8 +8,8 @@
 
 ?> Commonly,you may join server without installing any mod.
 
-##Join a player organization/group
-  -In order to get you into Timory faster，it's a good choice to join a [group/organization](/en-US/culture/group.md)
+## Join a player organization/group
+  - In order to get you into Timory faster，it's a good choice to join a [group/organization](/en-US/culture/group.md)
 
 ---
 

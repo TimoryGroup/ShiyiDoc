@@ -7,53 +7,58 @@
     <meta name="description" content="Description">
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-    <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css">
+    <link href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css" rel="stylesheet">
 </head>
 <body>
-<div id="app"></div>
-<script>
-    window.$docsify = {
-        ga: 'UA-124245064-3',
-        name: 'Timory 时忆Wiki',
-        repo: '',
-        loadSidebar: true,
-        loadNavbar: true,
-        subMaxLevel: 2,
-        auto2top: true,
-        relativePath: false,
-        themeColor: '#00bfff',
-        mergeNavbar: true,
-        formatUpdated: '{YYYY}/{MM}/{DD} {HH}:{mm}',
-        externalLinkTarget: '_blank',
-        notFoundPage: true,
-        search: 'auto',
-        search: {
-            maxAge: 86400000,
-            paths: 'auto',
-            placeholder: 'Search...',
-            noData: '未找到结果',
-            namespace: 'shiyiWiki',
-        },
+    <div id="app"></div>
+    <script src="js/docsify-edit-on-github@1.0.3-index.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-124245064-3"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
 
-        plugins: [
-/*          EditOnGithubPlugin.create(
-                  'https://github.com/TimoryGroup/ShiyiDoc/blob/master/',
-                  null,
-                  "test"
-          )*/
-        ]
-    }
+        function gtag() {
+            dataLayer.push(arguments);
+        }
 
-</script>
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-124245064-3"></script>
-<script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
+        gtag('js', new Date());
 
-    gtag('config', 'UA-124245064-3');
-</script>
-<script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+        gtag('config', 'UA-124245064-3');
+    </script>
+    <script>
+        window.$docsify = {
+            ga: 'UA-124245064-3',
+            name: '<b>Timory 时忆Wiki</b>',
+            repo: 'https://github.com/TimoryGroup/Wiki',
+            loadSidebar: true,
+            loadNavbar: true,
+            subMaxLevel: 2,
+            auto2top: true,
+            relativePath: false,
+            themeColor: '#00a0ff',
+            mergeNavbar: true,
+            formatUpdated: '{YYYY}/{MM}/{DD} {HH}:{mm}',
+            externalLinkTarget: '_blank',
+            notFoundPage: true,
+            search: 'auto',
+            search: {
+                maxAge: 86400000,
+                paths: 'auto',
+                placeholder: 'Search...',
+                noData: 'Not Found',
+                namespace: 'TimoryWiki',
+            },
+
+            plugins: [
+                EditOnGithubPlugin.create(
+                    'https://github.com/TimoryGroup/Wiki/blob/master/',
+                    null,
+                    "Edit on Github"
+                )
+            ]
+        }
+    </script>
+    <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
 </body>
 </html>
