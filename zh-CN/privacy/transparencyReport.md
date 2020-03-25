@@ -8,7 +8,7 @@
 
 ### 申请记录
 
-?> 如果您希望注销账户，请点击: [【申请注销账户】](deleteAccount.md)  
+?> 如果您希望注销账户，请点击: [【申请注销账户】](/zh-CN/privacy/deleteAccount.md)  
 
 已注销的账户数量: 0
 
