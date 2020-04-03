@@ -12,7 +12,7 @@
 !> 需使用[UniBan联合封禁插件](https://uniban.eumc.cc/)
 
 封禁列表订阅ID:  
-> ``/uniban subscribe mILRafj8WfFSvB6Fvspu7GCsALsRzdSG8nux5W4JhV8=``
+> ``/uniban subscribe aMS5vRAP2yvUaLWVQKGrqSbD2C3l9hC4vUPb6D2jBjA=``
 
 ### 2. Github Banlist Json
 
