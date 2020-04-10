@@ -7,9 +7,9 @@
 
 - [【官网】](https://www.mcshiyi.com/) 
 
-- [【申请白名单】](/zh-CN/join/whitelist.md) 
-
 - [【服务器规定】](/zh-CN/join/rules.md)
+
+- [【申请白名单】](/zh-CN/join/whitelist.md) 
 
 - [【常见问题】](/zh-CN/guide/faq.md)   
 
