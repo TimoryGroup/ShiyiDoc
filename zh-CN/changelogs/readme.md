@@ -11,7 +11,7 @@
 
 ### 2020-05-10 不停机更新
 1. cz开放了以下指令:``weather`` ``time`` ``difficulty`` ``gamemode``
-2. 部分服务器切换到 Tuinity 服务端
+2. 更换部分服务端到 Tuinity
 
 ### 2020-04-26 sc更新
 1. 随机刻修复
