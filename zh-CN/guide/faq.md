@@ -88,15 +88,18 @@
 ### 时忆服务器的配置是？
 - 服务器配置：
     - 游戏服务器:
-        - CPU: intel i7-6700 @3.7G
-        - RAM: DDR3 28G(3*8+4) 
+        - CPU: intel i7-9700K @5.0G
+        - RAM: DDR4 3200 32G(16*2) 
         - Disk:
             - Samsung 860EVO 480G SSD(System Runtime & Minecraft Runtime )
             - Samsung 850EVO 120G SSD(Database Runtime)
             - WDC 2T HDD (Backup Storage) 
         - Network:
-            - 中国电信 200Mbps光纤接入
-            - 阿里云 广州BGP多线加速
+            - 中国电信 广州 200Mbps光纤接入
+            - 阿里云 广州BGP加速
+            - 阿里云 杭州BGP加速
+            - 宿迁 BGP加速
+
 
 ### 服务器开放API吗？
 - 文档: [【API文档】](/zh-CN/dev/api.md)
