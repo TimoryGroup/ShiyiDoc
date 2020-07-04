@@ -3,6 +3,8 @@
 !> 时忆正与其他正版服务器[**共享封禁名单**](/zh-CN/dev/api.md)。
 当违反了规定被封禁，将可能**无法进入其他服务器**。
 
+?> 你可以在这里: [https://banlist.mcshiyi.com/](https://banlist.mcshiyi.com/) 查看被封禁的所有玩家。
+
 ------
 ## 规定
 
