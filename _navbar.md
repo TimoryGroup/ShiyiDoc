@@ -11,4 +11,5 @@
 * 开发者中心
     * [Github](https://github.com/TimoryGroup ':target=_blank')
     * [API](/zh-CN/dev/api.md)
+    * [实验室(WIP)]()
 * [捐赠](https://www.mcshiyi.com/donateserver.html ':target=_blank')
